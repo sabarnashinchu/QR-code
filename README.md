@@ -1,2 +1,7 @@
-# QR-code
-QR code encoder / decoder
+cd backend
+npm install
+npm run dev
+
+cd frontend
+npm install
+npm run dev 
